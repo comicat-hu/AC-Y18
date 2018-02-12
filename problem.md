@@ -17,7 +17,7 @@ Assume that:
 
 Complexity:
   * expected worst-case time complexity is O(N);
-  * expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input 
+  * expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 
 -----
 
