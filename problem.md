@@ -273,7 +273,7 @@ Given "CODILITY", your function should return 96.
 
 Assume that: 
   * the length of S is within the range [4..100,000];
-  * string S consists only of uppercase letters (A-z). 
+  * string S consists only of uppercase letters (A-Z). 
 
 Complexity:  
   * expected worst-case time complexity is `O(N)`;
